@@ -23,6 +23,7 @@ compra3=lectura.nextDouble();
 tc=compra1+compra2+compra3;
 pc=tc/3;
 //salida de datos
+System.out.println("Actualización de Código - Título Resultados:");
 System.out.println("Nombre de cliente:"+nombreCliente);
 System.out.println("Total de compras:"+tc);
 System.out.println("Promedio de compras:"+pc);
